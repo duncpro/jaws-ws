@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/serverbound-message-handler/build/
+/serverbound-message-handler/build/classes/java/main/
